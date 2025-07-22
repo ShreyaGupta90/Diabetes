@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+sklearn.datasets
+sklearn.model_selection
+sklearn.linear_model
+seaborn
+sklearn.metrics
